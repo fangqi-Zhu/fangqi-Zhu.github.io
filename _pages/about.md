@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a third-year M.Eng. student at [Harbin Institute of Technology, Shenzhen (HITSZ)](https://www.hitsz.edu.cn/index.html) <img src='images/logo_HITSZ.png' style='width: 1.1em;'> ([learn more about UCAS](https://en.wikipedia.org/wiki/Harbin_Institute_of_Technology,_Shenzhen)).
+I am currently a third-year M.Eng. student at [Harbin Institute of Technology, Shenzhen (HITSZ)](https://www.hitsz.edu.cn/index.html) <img src='images/logo_HITSZ.png' style='width: 1.1em;'> ([learn more about HITSZ](https://en.wikipedia.org/wiki/Harbin_Institute_of_Technology,_Shenzhen)).
 
 My research interests lie in the general area of machine learning and deep learning, and I have some research experience in the field of natural language processing.
 The long-term goal of my research is to develop a machine that can perceive, plan, and act in real-world scenes like humans.
