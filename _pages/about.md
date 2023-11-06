@@ -58,7 +58,7 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='images/AAAI2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='images/AAAI2023.pdf' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A Generative Approach for Script Event Prediction via Contrastive Fine-Tuning](https://ojs.aaai.org/index.php/AAAI/article/view/26645)
