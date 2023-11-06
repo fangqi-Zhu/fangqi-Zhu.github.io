@@ -42,7 +42,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 **Fangqi Zhu**, Yongqi Zhang, Lei Chen, Bing Qin, Ruifeng Xu
 
-**<font color=red>EMNLP 2023 </font>** \| [[**Code**]](https://github.com/zhufq00/DDIs-Prediction) 
+**<font color=red>EMNLP 2023 (Oral Presentation) </font>** \| [[**Code**]](https://github.com/zhufq00/DDIs-Prediction) 
 </div>
 </div>
 
@@ -53,7 +53,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 **Fangqi Zhu**, Lin Zhang, Jun Gao, Bing Qin, Ruifeng Xu, Haiqin Yang
 
-**<font color=red>ACL Findings 2023 </font>** \| [[**Paper**]](https://aclanthology.org/2023.findings-acl.800/)  [[**Code**]](https://github.com/zhufq00/EventSkeletonGeneration) 
+**<font color=red>ACL Findings 2023 (Poster) </font>** \| [[**Paper**]](https://aclanthology.org/2023.findings-acl.800/)  [[**Code**]](https://github.com/zhufq00/EventSkeletonGeneration) [[**Poster**]](resources/DEGM_Poster.pdf) 
 </div>
 </div>
 
@@ -61,7 +61,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 **Fangqi Zhu**, Lin Zhang, Jun Gao, Bing Qin, Ruifeng Xu, Haiqin Yang
 
-**<font color=red>AAAI 2023 (Oral Presentation)  </font>** \| [[**Paper**]](https://ojs.aaai.org/index.php/AAAI/article/view/26645)  [[**Code**]](https://github.com/zhufq00/mcnc) 
+**<font color=red>AAAI 2023 (Oral Presentation)  </font>** \| [[**Paper**]](https://ojs.aaai.org/index.php/AAAI/article/view/26645)  [[**Code**]](https://github.com/zhufq00/mcnc) [[**Poster**]](resources/SEP_Poster.pdf) 
 </div>
 </div>
 
