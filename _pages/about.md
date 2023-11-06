@@ -83,9 +83,8 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2022.09 - 2023.03*, Research Intern, International Digital Economy Academy (IDEA), DataStory AI lab, Shenzhen, China
-Mentor: [Dr. Yongqi Zhang](https://yzhangee.github.io/)
-
 - *2023.04 - Present*, Research Intern, 4Paradigm, Shenzhen, China
 Mentor: [Dr. Haiqin Yang](https://hqyang.github.io/) & [Dr.Lin Zhang](https://lin-zhang-alpha.github.io/)
+- *2022.09 - 2023.03*, Research Intern, International Digital Economy Academy (IDEA), DataStory AI lab, Shenzhen, China
+Mentor: [Dr. Yongqi Zhang](https://yzhangee.github.io/)
 
