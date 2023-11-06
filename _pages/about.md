@@ -66,16 +66,22 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09* First-class Scholarship of Harbin Institute of Technology, Shenzhen
+- *2022.09* Second-class Scholarship of Harbin Institute of Technology, Shenzhen
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09 - 2024.1 (expected)*, Master of Engineering in Computer Science and Technology, School of Computer Science, Harbin Institute of Technology, Shenzhen (HITSZ)
+- *2017.09 - 2021.06*, Bachelor of Engineering in Software Engineering, School of Computer Science, Wuhan University (WHU)
 
-# 💬 Invited Talks
+
+<!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2022.09 - 2023.03*, Research Intern, International Digital Economy Academy (IDEA), DataStory AI lab, Shenzhen, China
+Mentor: [Dr. Yongqi Zhang](https://yzhangee.github.io/)
+
+- *2023.04 - Present*, Research Intern, 4Paradigm, Shenzhen, China
+Mentor: [Dr. Haiqin Yang](https://hqyang.github.io/) & [Dr.Lin Zhang](https://lin-zhang-alpha.github.io/)
+
