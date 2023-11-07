@@ -63,7 +63,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 [A Generative Approach for Script Event Prediction via Contrastive Fine-Tuning](https://ojs.aaai.org/index.php/AAAI/article/view/26645)
 
-**Fangqi Zhu**, Lin Zhang, Jun Gao, Bing Qin, Ruifeng Xu, Haiqin Yang
+**Fangqi Zhu**, Jun Gao, Changlong Yu, Wei Wang, Chen Xu, Xin Mu, Min Yang, Ruifeng Xu
 
 **<font color=red>AAAI 2023 (Oral Presentation)  </font>** \| [[**Paper**]](https://ojs.aaai.org/index.php/AAAI/article/view/26645)  [[**Code**]](https://github.com/zhufq00/mcnc) [[**Poster**]](resources/SEP_Poster.pdf) 
 </div>
