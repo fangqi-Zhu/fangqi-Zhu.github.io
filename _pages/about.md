@@ -28,7 +28,7 @@ I am currently a graduate student at the [Department of Computer Science and Tec
 My research interests lie in the general area of machine learning and deep learning, and I have some research experience in the field of natural language processing.
 The long-term goal of my research is to develop a machine that can perceive, plan, and act in real-world scenes like humans.
 
-I am recently very interested in [MineDojo](https://minedojo.org/) (Minecraft simulator), [Roboflamingo] (https://roboflamingo.github.io/)(Robot arm simulator), and [Habitat 3.0](https://aihabitat.org/habitat3/) (Home simulator), and will base my research on this. If you are interested in collaborating, please contact me. I'm open to any form of cooperation.
+I am recently very interested in [MineDojo](https://minedojo.org/) (Minecraft simulator), [Roboflamingo](https://roboflamingo.github.io/)(Robot arm simulator), and [Habitat 3.0](https://aihabitat.org/habitat3/) (Home simulator), and will base my research on this. If you are interested in collaborating, please contact me. I'm open to any form of cooperation.
 
 <!-- > 📢📢📢 <font color=red>I am looking for a Ph.D. position (2024 Fall).</font> If you would like to discuss potential opportunities or learn more about my qualifications, please feel free to [contact me](mailto:zhufangqi.hitsz@gmail.com). 😊 -->
 <!-- 
