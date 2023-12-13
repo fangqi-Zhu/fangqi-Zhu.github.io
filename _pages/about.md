@@ -17,7 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a third-year M.Eng. student at [Harbin Institute of Technology, Shenzhen (HITSZ)](https://www.hitsz.edu.cn/index.html) <img src='images/logo_HITSZ.png' style='width: 1.1em;'> ([learn more about HITSZ](https://en.wikipedia.org/wiki/Harbin_Institute_of_Technology,_Shenzhen)).
+<!-- Hi, I’m Fangqi Zhu. I',  pursue my Ph.D. in the Department of Computer Science and Engineering (CSE) at the Hong Kong University of Science and Technology (HKUST, 香港科技大学), supervised by Prof. Song Guo in PEILab.
+
+I am currently a third-year M.Eng. student at [Harbin Institute of Technology, Shenzhen (HITSZ)](https://www.hitsz.edu.cn/index.html). And I will join The Hong Kong University of Science and Technology as a PhD student in 2024 fall in the Department of [Computer Science and Engineering (CSE)] (https://cse.hkust.edu.hk/). I am fortunate to be advised by supervised by Prof. [Song Guo](https://cse.hkust.edu.hk/admin/people/faculty/profile/songguo) in [PEILab] (https://peilab.netlify.app/). -->
+
+I am currently in my third year of the Master of Engineering program at the [Harbin Institute of Technology, Shenzhen (HITSZ)](https://www.hitsz.edu.cn/index.html). In the fall of 2024, I will be embarking on a new journey as a PhD student at The Hong Kong University of Science and Technology, within the [Department of Computer Science and Engineering (CSE)](https://cse.hkust.edu.hk/). I am privileged to have the guidance and mentorship of Prof. [Song Guo](https://cse.hkust.edu.hk/admin/people/faculty/profile/songguo) at the [PEILab](https://peilab.netlify.app/), which promises an exciting and enriching research experience.
+
 
 My research interests lie in the general area of machine learning and deep learning, and I have some research experience in the field of natural language processing.
 The long-term goal of my research is to develop a machine that can perceive, plan, and act in real-world scenes like humans.
