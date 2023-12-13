@@ -44,11 +44,11 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2023</div><img src='images/EMNLP2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Learning to Describe for Predicting Zero-shot Drug-Drug Interactions](https://openreview.net/pdf?id=3dNeNpmyiO)
+[Learning to Describe for Predicting Zero-shot Drug-Drug Interactions](https://aclanthology.org/2023.emnlp-main.918/)
 
 **Fangqi Zhu**, Yongqi Zhang, Lei Chen, Bing Qin, Ruifeng Xu
 
-**<font color=red>EMNLP 2023 (Oral Presentation) </font>** \| [[**Code**]](https://github.com/zhufq00/DDIs-Prediction) 
+**<font color=red>EMNLP 2023 (Oral Presentation) </font>** \| [[**Paper**]](https://aclanthology.org/2023.emnlp-main.918/) [[**Code**]](https://github.com/zhufq00/DDIs-Prediction) 
 </div>
 </div>
 
