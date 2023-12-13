@@ -21,7 +21,8 @@ redirect_from:
 
 I am currently a third-year M.Eng. student at [Harbin Institute of Technology, Shenzhen (HITSZ)](https://www.hitsz.edu.cn/index.html). And I will join The Hong Kong University of Science and Technology as a PhD student in 2024 fall in the Department of [Computer Science and Engineering (CSE)] (https://cse.hkust.edu.hk/). I am fortunate to be advised by supervised by Prof. [Song Guo](https://cse.hkust.edu.hk/admin/people/faculty/profile/songguo) in [PEILab] (https://peilab.netlify.app/). -->
 
-I am currently in my third year of the Master of Engineering program at the [Harbin Institute of Technology, Shenzhen (HITSZ)](https://www.hitsz.edu.cn/index.html). In the fall of 2024, I will be embarking on a new journey as a PhD student at The Hong Kong University of Science and Technology, within the [Department of Computer Science and Engineering (CSE)](https://cse.hkust.edu.hk/). I am privileged to have the guidance and mentorship of Prof. [Song Guo](https://cse.hkust.edu.hk/admin/people/faculty/profile/songguo) at the [PEILab](https://peilab.netlify.app/), which promises an exciting and enriching research experience.
+
+I am currently a graduate student at the Department of Computer Science, [Harbin Institute of Technology, Shenzhen] (https://www.hitsz.edu.cn/index.html). In the fall of 2024, I will advance my academic journey by joining The Hong Kong University of Science and Technology as a PhD student in the [Department of Computer Science and Engineering (CSE)](https://cse.hkust.edu.hk/). I am privileged to have the guidance and mentorship of [Prof. Song Guo](https://cse.hkust.edu.hk/admin/people/faculty/profile/songguo) at the [PEILab](https://peilab.netlify.app/), an opportunity that I anticipate with great enthusiasm for my future research endeavors.
 
 
 My research interests lie in the general area of machine learning and deep learning, and I have some research experience in the field of natural language processing.
