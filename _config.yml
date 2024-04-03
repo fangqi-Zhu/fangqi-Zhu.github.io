@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Fangqi Zhu"
 description              : "M.Eng. student @ HITSZ. <br/>
-                            Doing research @ 4Paradigm."
+                            Doing research @ ByteDance."
 repository               : "fangqi-Zhu/fangqi-Zhu.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -25,7 +25,7 @@ author:
   name             : "Fangqi Zhu <br/> 朱方琪"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Harbin Institute of Technology, Shenzhen (HITSZ)"
-  location         : "Shenzhen, China"
+  location         : "Beijing, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com.tw/citations?hl=zh-CN&user=yio0974AAAAJ"
