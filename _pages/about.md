@@ -22,13 +22,13 @@ redirect_from:
 I am currently a third-year M.Eng. student at [Harbin Institute of Technology, Shenzhen (HITSZ)](https://www.hitsz.edu.cn/index.html). And I will join The Hong Kong University of Science and Technology as a PhD student in 2024 fall in the Department of [Computer Science and Engineering (CSE)] (https://cse.hkust.edu.hk/). I am fortunate to be advised by supervised by Prof. [Song Guo](https://cse.hkust.edu.hk/admin/people/faculty/profile/songguo) in [PEILab] (https://peilab.netlify.app/). -->
 
 
-I am currently a graduate student at the [Department of Computer Science and Technology, Harbin Institute of Technology, Shenzhen](http://cs.hitsz.edu.cn/). In the fall of 2024, I will advance my academic journey by joining [Department of Computer Science and Engineering, Hong Kong University of Science and Technology](https://cse.hkust.edu.hk/) as a PhD student. I am privileged to have the guidance and mentorship of [Prof. Song Guo](https://cse.hkust.edu.hk/admin/people/faculty/profile/songguo) at the [PEILab](https://peilab.netlify.app/), focusing on research in AI Agents.
+I am currently a graduate student at the [Department of Computer Science and Technology, Harbin Institute of Technology, Shenzhen](http://cs.hitsz.edu.cn/). In the fall of 2024, I will advance my academic journey by joining [Department of Computer Science and Engineering, Hong Kong University of Science and Technology](https://cse.hkust.edu.hk/) as a PhD student. I am privileged to have the guidance and mentorship of [Prof. Song Guo](https://cse.hkust.edu.hk/admin/people/faculty/profile/songguo) at the [PEILab](https://peilab.netlify.app/), focusing on research in Embodied AI .
 
 
 My research interests lie in the general area of machine learning and deep learning, and I have some research experience in the field of natural language processing.
 The long-term goal of my research is to develop a machine that can perceive, plan, and act in real-world scenes like humans.
 
-I am recently very interested in [MineDojo](https://minedojo.org/) (Minecraft simulator), [Roboflamingo](https://roboflamingo.github.io/)(Robot arm simulator), and [Habitat 3.0](https://aihabitat.org/habitat3/) (Home simulator), and will base my research on this. If you are interested in collaborating, please contact me. I'm open to any form of cooperation.
+I am recently very interested in [MineDojo](https://minedojo.org/) (Minecraft simulator), [CALVIN](https://github.com/mees/calvin)(Robot arm simulator), and [Habitat 3.0](https://aihabitat.org/habitat3/) (Home simulator), and will base my research on this. If you are interested in collaborating, please contact me. I'm open to any form of cooperation.
 
 <!-- > 📢📢📢 <font color=red>I am looking for a Ph.D. position (2024 Fall).</font> If you would like to discuss potential opportunities or learn more about my qualifications, please feel free to [contact me](mailto:zhufangqi.hitsz@gmail.com). 😊 -->
 <!-- 
@@ -90,7 +90,9 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2023.04 - Present*, Research Intern, 4Paradigm, Shenzhen, China
+- *2024.03 - Present*, Research Intern, Robotics Research, AI Lab, ByteDance, Beijing, China
+
+- *2023.04 - 2023.12*, Research Intern, 4Paradigm, Shenzhen, China
 
     Mentor: [Dr. Yongqi Zhang](https://yzhangee.github.io/)
 
