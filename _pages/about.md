@@ -90,7 +90,7 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2024.03 - Present*, Research Intern, Robotics Research, AI Lab, ByteDance, Beijing, China
+- *2024.03 - Present*, Research Intern, ByteDance, Robotics Research, AI Lab, Beijing, China
 
 - *2023.04 - 2023.12*, Research Intern, 4Paradigm, Shenzhen, China
 
