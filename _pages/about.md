@@ -21,14 +21,15 @@ redirect_from:
 
 I am currently a third-year M.Eng. student at [Harbin Institute of Technology, Shenzhen (HITSZ)](https://www.hitsz.edu.cn/index.html). And I will join The Hong Kong University of Science and Technology as a PhD student in 2024 fall in the Department of [Computer Science and Engineering (CSE)] (https://cse.hkust.edu.hk/). I am fortunate to be advised by supervised by Prof. [Song Guo](https://cse.hkust.edu.hk/admin/people/faculty/profile/songguo) in [PEILab] (https://peilab.netlify.app/). -->
 
+I am an incoming Fall 2024 PhD student in the [Department of Computer Science and Engineering, Hong Kong University of Science and Technology](https://cse.hkust.edu.hk/) (CSE, HKUST). I am fortunate to be supervised by [Prof. Song Guo](https://cse.hkust.edu.hk/admin/people/faculty/profile/songguo) at [PEILab](https://peilab.netlify.app/). I received my Master's degree in 2024 from the [Harbin Institute of Technology, Shenzhen](http://cs.hitsz.edu.cn/) (HITSZ), supervised by [Prof. Bin Qin](https://homepage.hit.edu.cn/qinbing) and [Prof. Ruifeng Xu](https://faculty.hitsz.edu.cn/xuruifeng). I received my Bachelor's degree in 2017 from [Wuhan University](https://cs.whu.edu.cn/).
 
-I am currently a graduate student at the [Department of Computer Science and Technology, Harbin Institute of Technology, Shenzhen](http://cs.hitsz.edu.cn/). In the fall of 2024, I will advance my academic journey by joining [Department of Computer Science and Engineering, Hong Kong University of Science and Technology](https://cse.hkust.edu.hk/) as a PhD student. I am privileged to have the guidance and mentorship of [Prof. Song Guo](https://cse.hkust.edu.hk/admin/people/faculty/profile/songguo) at the [PEILab](https://peilab.netlify.app/), focusing on research in Embodied AI .
+My research interests focus on scaling up robot learning. Previously, I gained some experience in NLP. The long-term goal of my research is to develop a machine that can perceive, plan, and act in the real world like humans.
+
+I am currently developing a generative world model for robot learning, which will enable automatic training and evaluation in a virtual environment.
 
 
-My research interests lie in the general area of machine learning and deep learning, and I have some research experience in the field of natural language processing.
-The long-term goal of my research is to develop a machine that can perceive, plan, and act in real-world scenes like humans.
 
-I am recently very interested in [MineDojo](https://minedojo.org/) (Minecraft simulator), [CALVIN](https://github.com/mees/calvin)(Robot arm simulator), and [Habitat 3.0](https://aihabitat.org/habitat3/) (Home simulator), and will base my research on this. If you are interested in collaborating, please contact me. I'm open to any form of cooperation.
+<!-- interested in [MineDojo](https://minedojo.org/) (Minecraft simulator), [CALVIN](https://github.com/mees/calvin)(Robot arm simulator), and [Habitat 3.0](https://aihabitat.org/habitat3/) (Home simulator), and will base my research on this. If you are interested in collaborating, please contact me. I'm open to any form of cooperation. -->
 
 <!-- > 📢📢📢 <font color=red>I am looking for a Ph.D. position (2024 Fall).</font> If you would like to discuss potential opportunities or learn more about my qualifications, please feel free to [contact me](mailto:zhufangqi.hitsz@gmail.com). 😊 -->
 <!-- 
@@ -36,9 +37,21 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News
+- *2024.06*: Our paper, [IRASim](https://gen-irasim.github.io/), which explores generative robot world models, has been released! 🎉 Everything is open source!
 - *2023.10*: One paper is accepted by EMNLP 2023!🎉
 - *2023.05*: One paper is accepted by ACL Findings 2023! 🎉
 - *2022.11*: One paper is accepted by AAAI 2023! 🎉
+
+# Preprints
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2023</div><img src='images/IRASim.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[IRASim: Learning Interactive Real-Robot Action Simulators](https://arxiv.org/pdf/2406.14540)
+**Fangqi Zhu**, Hongtao Wu, Song Guo, Yuxiao Liu, Chilam Cheang, Tao Kong
+
+[[**Paper**]](https://arxiv.org/pdf/2406.14540) [[**Code**]](https://github.com/bytedance/IRASim) [[**Project Website**]](https://gen-irasim.github.io/) 
+</div>
+</div>
 
 # 📝 Publications 
 
