@@ -44,7 +44,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # Preprint
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/EMNLP2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/IRASim.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [IRASim: Learning Interactive Real-Robot Action Simulators](https://arxiv.org/pdf/2406.14540)
