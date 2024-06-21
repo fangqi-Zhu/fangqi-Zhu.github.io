@@ -44,15 +44,20 @@ My research interest includes neural machine translation and computer vision. I 
 
 # Preprint
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/IRASim.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div><img src='images/IRASim.png' alt='sym' width='100%'></div>
+  </div>
+  <div class='paper-box-text' markdown='1'>
 
 [IRASim: Learning Interactive Real-Robot Action Simulators](https://arxiv.org/pdf/2406.14540)
 
 **Fangqi Zhu**, Hongtao Wu, Song Guo, Yuxiao Liu, Chilam Cheang, Tao Kong
 
-[[**Paper**]](https://arxiv.org/pdf/2406.14540) [[**Code**]](https://github.com/bytedance/IRASim) [[**Project Website**]](https://gen-irasim.github.io/) 
+[[**Paper**]](https://arxiv.org/pdf/2406.14540) [[**Code**]](https://github.com/bytedance/IRASim) [[**Project Website**]](https://gen-irasim.github.io/)
+  </div>
 </div>
+
 
 # 📝 Publications 
 
