@@ -42,15 +42,14 @@ My research interest includes neural machine translation and computer vision. I 
 - *2023.05*: One paper is accepted by ACL Findings 2023! 🎉
 - *2022.11*: One paper is accepted by AAAI 2023! 🎉
 
-# Preprints
-<div class='paper-box'><img src='images/IRASim.png' alt="sym" width="100%"></div>
+# Preprint
+<div class='paper-box'><img src='images/IRASim.png' alt="sym" width="100%">
 
 [IRASim: Learning Interactive Real-Robot Action Simulators](https://arxiv.org/pdf/2406.14540)
 
 **Fangqi Zhu**, Hongtao Wu, Song Guo, Yuxiao Liu, Chilam Cheang, Tao Kong
 
 [[**Paper**]](https://arxiv.org/pdf/2406.14540) [[**Code**]](https://github.com/bytedance/IRASim) [[**Project Website**]](https://gen-irasim.github.io/) 
-</div>
 </div>
 
 # 📝 Publications 
