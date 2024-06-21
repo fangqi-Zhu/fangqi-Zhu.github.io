@@ -43,8 +43,7 @@ My research interest includes neural machine translation and computer vision. I 
 - *2022.11*: One paper is accepted by AAAI 2023! 🎉
 
 # Preprints
-<div class='paper-box'><<img src='images/IRASim.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'><img src='images/IRASim.png' alt="sym" width="100%"></div>
 
 [IRASim: Learning Interactive Real-Robot Action Simulators](https://arxiv.org/pdf/2406.14540)
 
