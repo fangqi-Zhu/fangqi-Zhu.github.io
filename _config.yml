@@ -7,14 +7,13 @@
 
 # Site Settings
 title                    : "Fangqi Zhu"
-description              : "M.Eng. student @ HITSZ. <br/>
+description              : "PhD @ HKUST. <br/>
                             Doing research @ ByteDance."
 repository               : "fangqi-Zhu/fangqi-Zhu.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
-
 # SEO Related
 google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
 bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
@@ -24,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Fangqi Zhu <br/> 朱方琪"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Harbin Institute of Technology, Shenzhen (HITSZ)"
+  bio              : "The Hong Kong University of Science and Technology (HKUSZ)"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com.tw/citations?hl=zh-CN&user=yio0974AAAAJ"
-  email            : "zhufangqi.hitsz@gmail.com"
+  email            : "zhufangqi00@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
