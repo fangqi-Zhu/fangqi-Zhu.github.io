@@ -23,7 +23,7 @@ I am currently a third-year M.Eng. student at [Harbin Institute of Technology, S
 
 I am a first-year PhD student in the [Department of Computer Science and Engineering, Hong Kong University of Science and Technology](https://cse.hkust.edu.hk/) (CSE, HKUST). I am fortunate to be supervised by [Prof. Song Guo](https://cse.hkust.edu.hk/admin/people/faculty/profile/songguo) at [PEILab](https://peilab.netlify.app/). I received my Master's degree in 2024 from the [Harbin Institute of Technology, Shenzhen](http://cs.hitsz.edu.cn/) (HITSZ). I received my Bachelor's degree in 2021 from [Wuhan University](https://cs.whu.edu.cn/).
 
-My research interests focus on scaling up robot learning. Previously, I gained some experience in NLP. The long-term goal of my research is to develop a machine that can perceive, plan, and act in the real world like humans.
+My research interests focus on scaling up robot learning. Previously, I gained some experience in NLP. The long-term goal of my research is to develop a machine that can perceive, reason, and act in the real world like humans.
 
 I am currently developing a generative world model for robot learning, which will enable automatic training and evaluation in a virtual environment.
 
