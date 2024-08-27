@@ -98,10 +98,9 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 🎖 Honors and Awards
 - *2021.09* First-class Scholarship of Harbin Institute of Technology, Shenzhen
-- *2022.09* Second-class Scholarship of Harbin Institute of Technology, Shenzhen
 
 # 📖 Educations
-- *2021.09 - 2024.1 (expected)*, Master of Engineering in Computer Science and Technology, Department of Computer Science and Technology, Harbin Institute of Technology, Shenzhen (HITSZ)
+- *2021.09 - 2024.01*, Master of Engineering in Computer Science and Technology, Department of Computer Science and Technology, Harbin Institute of Technology, Shenzhen (HITSZ)
 - *2017.09 - 2021.06*, Bachelor of Engineering in Software Engineering, Department of Computer Science, Wuhan University (WHU)
 
 
