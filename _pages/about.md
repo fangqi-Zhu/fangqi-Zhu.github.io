@@ -37,16 +37,25 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News
+- *2025.06*: Our paper, [IRASim](https://gen-irasim.github.io/) is accepted by ICCV 2025!
 - *2024.06*: Our paper, [IRASim](https://gen-irasim.github.io/), which explores generative robot world models, has been released! 🎉 Everything is open source!
 - *2023.10*: One paper is accepted by EMNLP 2023!🎉
 - *2023.05*: One paper is accepted by ACL Findings 2023! 🎉
 - *2022.11*: One paper is accepted by AAAI 2023! 🎉
 
-# Preprint
+<!--- # Preprint -->
+
+
+
+
+# 📝 Publications 
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div><img src='images/IRASim.png' alt='sym' width='100%'></div>
+    <div>
+      <div class="badge">ICCV 2025</div>
+      <img src='images/IRASim.png' alt='sym' width='100%'>
+    </div>
   </div>
   <div class='paper-box-text' markdown='1'>
 
@@ -54,12 +63,11 @@ My research interest includes neural machine translation and computer vision. I 
 
 **Fangqi Zhu**, Hongtao Wu, Song Guo, Yuxiao Liu, Chilam Cheang, Tao Kong
 
-[[**Paper**]](https://arxiv.org/pdf/2406.14540) [[**Code**]](https://github.com/bytedance/IRASim) [[**Project Website**]](https://gen-irasim.github.io/)
+**<font color=red>ICCV 2025</font>** \| [[**Paper**]](https://arxiv.org/pdf/2406.14540) [[**Code**]](https://github.com/bytedance/IRASim) [[**Project Website**]](https://gen-irasim.github.io/)
   </div>
 </div>
 
 
-# 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2023</div><img src='images/EMNLP2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
