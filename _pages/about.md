@@ -47,6 +47,24 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 
+# 📝 Preprints 
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Arxiv 2025.11</div>
+      <img src='images/WMPO.png' alt='sym' width='100%'>
+    </div>
+  </div>
+  <div class='paper-box-text' markdown='1'>
+
+[WMPO: World Model-based Policy Optimization for Vision-Language-Action Models](https://arxiv.org/abs/2511.09515)
+
+**Fangqi Zhu**, Zhengyang Yan, Zicong Hong, Quanxin Shou, Xiao Ma, Song Guo
+
+[[**Paper**]](https://arxiv.org/abs/2511.09515) [[**Code**]](https://github.com/WM-PO/WMPO) [[**Project Website**]](https://wm-po.github.io/)
+  </div>
+</div>
 
 # 📝 Publications 
 
