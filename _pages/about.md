@@ -21,7 +21,7 @@ redirect_from:
 
 I am currently a third-year M.Eng. student at [Harbin Institute of Technology, Shenzhen (HITSZ)](https://www.hitsz.edu.cn/index.html). And I will join The Hong Kong University of Science and Technology as a PhD student in 2024 fall in the Department of [Computer Science and Engineering (CSE)] (https://cse.hkust.edu.hk/). I am fortunate to be advised by supervised by Prof. [Song Guo](https://cse.hkust.edu.hk/admin/people/faculty/profile/songguo) in [PEILab] (https://peilab.netlify.app/). -->
 
-I am a first-year PhD student in the [Department of Computer Science and Engineering, Hong Kong University of Science and Technology](https://cse.hkust.edu.hk/) (CSE, HKUST). I am fortunate to be supervised by [Prof. Song Guo](https://cse.hkust.edu.hk/admin/people/faculty/profile/songguo) at [PEILab](https://peilab.netlify.app/). I received my Master's degree in 2024 from the [Harbin Institute of Technology, Shenzhen](http://cs.hitsz.edu.cn/) (HITSZ). I received my Bachelor's degree in 2021 from [Wuhan University](https://cs.whu.edu.cn/).
+I am second-year PhD student in the [Department of Computer Science and Engineering, Hong Kong University of Science and Technology](https://cse.hkust.edu.hk/) (CSE, HKUST). I am fortunate to be supervised by [Prof. Song Guo](https://cse.hkust.edu.hk/admin/people/faculty/profile/songguo) at [PEILab](https://peilab.netlify.app/). I received my Master's degree in 2024 from the [Harbin Institute of Technology, Shenzhen](http://cs.hitsz.edu.cn/) (HITSZ), and my Bachelor's degree in 2021 from [Wuhan University](https://cs.whu.edu.cn/).
 
 My research interests focus on scaling up robot learning. Previously, I gained some experience in NLP. The long-term goal of my research is to develop a machine that can perceive, reason, and act in the real world like humans.
 
@@ -37,6 +37,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News
+- *2025.11*: Our paper, [WMPO](https://wm-po.github.io/), which explores VLA RL in world model, has been released! 🎉 Everything is open source!
 - *2025.06*: Our paper, [IRASim](https://gen-irasim.github.io/) is accepted by ICCV 2025!
 - *2024.06*: Our paper, [IRASim](https://gen-irasim.github.io/), which explores generative robot world models, has been released! 🎉 Everything is open source!
 - *2023.10*: One paper is accepted by EMNLP 2023!🎉
@@ -135,8 +136,12 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2024.03 - Present*, Research Intern, ByteDance, Robotics Research, AI Lab, Beijing, China
+- *2024.03 - 2025.09*, Research Intern, ByteDance, Seed Multimodal, Shenzhen, China
 
+- *2024.03 - 2025.09*, Research Intern, ByteDance, Seed Robotics, Beijing, China
+
+    Mentor: [Dr. Tao Kong](https://www.taokong.org/) & [Dr. Hongtao Wu](https://scholar.google.com/citations?user=7u0TYgIAAAAJ&hl=zh-CN&oi=ao) & [Dr. Hongtao Wu](https://yusufma03.github.io/)
+  
 - *2023.04 - 2023.12*, Research Intern, 4Paradigm, Shenzhen, China
 
     Mentor: [Dr. Yongqi Zhang](https://yzhangee.github.io/)
