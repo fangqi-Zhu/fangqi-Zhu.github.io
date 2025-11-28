@@ -136,7 +136,7 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2024.03 - 2025.09*, Research Intern, ByteDance, Seed Multimodal, Shenzhen, China
+- *2025.09 - present*, Research Intern, ByteDance, Seed Multimodal, Shenzhen, China
 
 - *2024.03 - 2025.09*, Research Intern, ByteDance, Seed Robotics, Beijing, China
 
