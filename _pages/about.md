@@ -37,6 +37,8 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News
+- *2026.01*: Our paper, [WMPO](https://wm-po.github.io/) is accepted by ICLR 2026!
+- *2026.01*: [Invited Talk](https://www.bilibili.com/video/BV13qkKB6EcM/) from RoboTech (具身智能之心) !
 - *2025.11*: Our paper, [WMPO](https://wm-po.github.io/), which explores VLA RL in world model, has been released! 🎉 Everything is open source!
 - *2025.06*: Our paper, [IRASim](https://gen-irasim.github.io/) is accepted by ICCV 2025!
 - *2024.06*: Our paper, [IRASim](https://gen-irasim.github.io/), which explores generative robot world models, has been released! 🎉 Everything is open source!
@@ -44,16 +46,18 @@ My research interest includes neural machine translation and computer vision. I 
 - *2023.05*: One paper is accepted by ACL Findings 2023! 🎉
 - *2022.11*: One paper is accepted by AAAI 2023! 🎉
 
-<!--- # Preprint -->
+<!--- # 📝 Preprints  -->
 
 
 
-# 📝 Preprints 
 
+
+
+# 📝 Publications 
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">Arxiv 2025.11</div>
+      <div class="badge">ICLR 2026</div>
       <img src='images/WMPO.png' alt='sym' width='100%'>
     </div>
   </div>
@@ -63,11 +67,10 @@ My research interest includes neural machine translation and computer vision. I 
 
 **Fangqi Zhu**, Zhengyang Yan, Zicong Hong, Quanxin Shou, Xiao Ma, Song Guo
 
-[[**Paper**]](https://arxiv.org/abs/2511.09515) [[**Code**]](https://github.com/WM-PO/WMPO) [[**Project Website**]](https://wm-po.github.io/)
+**<font color=red>ICLR 2026</font>** \| [[**Paper**]](https://arxiv.org/abs/2511.09515) [[**Code**]](https://github.com/WM-PO/WMPO) [[**Project Website**]](https://wm-po.github.io/)
   </div>
 </div>
 
-# 📝 Publications 
 
 <div class='paper-box'>
   <div class='paper-box-image'>
