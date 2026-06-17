@@ -7,8 +7,7 @@
 
 # Site Settings
 title                    : "Fangqi Zhu"
-description              : "PhD @ HKUST. <br/>
-                            Doing research @ ByteDance."
+description              : "PhD student at HKUST CSE working on robot learning, world models, and model-based reinforcement learning. Research Intern at NVIDIA GEAR."
 repository               : "fangqi-Zhu/fangqi-Zhu.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,10 +20,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Fangqi Zhu <br/> 朱方琪"
+  name             : "Fangqi Zhu"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "The Hong Kong University of Science and Technology (HKUST)"
-  location         : "HongKong, China"
+  bio              : "PhD student at HKUST CSE"
+  location         : "Hong Kong"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com.tw/citations?hl=zh-CN&user=yio0974AAAAJ"
