@@ -280,7 +280,13 @@ redirect_from:
   </section>
 
   <footer class="site-footer">
-    <p>© Fangqi Zhu</p>
-    <a href="#top">Back to top</a>
+    <div class="site-footer__meta">
+      <p>© Fangqi Zhu</p>
+      <a href="#top">Back to top</a>
+    </div>
+    <div class="site-traffic" aria-label="Visitor map and traffic">
+      <p class="site-traffic__label">Visitors</p>
+      <script type="text/javascript" id="clustrmaps" src="https://cdn.clustrmaps.com/map_v2.js?cl=ffffff&amp;w=300&amp;t=n&amp;d=ifeNXTINjIfXkEwLoSDWssg3YSpojOXvFlVY4sXZqVw"></script>
+    </div>
   </footer>
 </main>
