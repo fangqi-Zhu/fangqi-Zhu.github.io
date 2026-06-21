@@ -286,7 +286,9 @@ redirect_from:
     </div>
     <div class="site-traffic" aria-label="Visitor map and traffic">
       <p class="site-traffic__label">Visitors</p>
+      <p class="site-traffic__fallback">ClustrMaps visitor map</p>
       <script type="text/javascript" id="clustrmaps" src="https://cdn.clustrmaps.com/map_v2.js?cl=ffffff&amp;w=300&amp;t=n&amp;d=ifeNXTINjIfXkEwLoSDWssg3YSpojOXvFlVY4sXZqVw"></script>
+      <noscript><p class="site-traffic__fallback">ClustrMaps visitor map requires JavaScript.</p></noscript>
     </div>
   </footer>
 </main>

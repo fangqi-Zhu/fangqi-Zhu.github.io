@@ -466,6 +466,13 @@ img {
   text-transform: uppercase;
 }
 
+.site-traffic__fallback {
+  margin: 0 0 8px;
+  color: var(--soft);
+  font-size: 12px;
+  font-weight: 700;
+}
+
 .site-traffic iframe,
 .site-traffic img,
 .site-traffic canvas {
