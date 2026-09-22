@@ -25,27 +25,25 @@ redirect_from:
       <div class="hero__actions" aria-label="Profile links">
         <a class="button button--primary" href="mailto:fangqi.zhu@connect.ust.hk">Email</a>
         <a class="button" href="https://scholar.google.com.tw/citations?hl=zh-CN&amp;user=yio0974AAAAJ" target="_blank" rel="noopener">Google Scholar</a>
-        <a class="button" href="{{ '/resources/Fangqi_Zhu_Resume_ZH.pdf' | relative_url }}" target="_blank" rel="noopener" lang="zh-CN">中文简历 · PDF</a>
       </div>
     </div>
     <div class="hero__copy">
       <p class="hero__status">HKUST CSE PhD · NVIDIA GEAR intern · 2027 industry job market</p>
       <p class="hero__intro">
-        I am a PhD student in the <a href="https://cse.hkust.edu.hk/" target="_blank" rel="noopener">Department of Computer Science and Engineering at HKUST</a>, advised by
+        I am a second-year PhD student in the <a href="https://cse.hkust.edu.hk/" target="_blank" rel="noopener">Department of Computer Science and Engineering at HKUST</a>, advised by
         <a href="https://cse.hkust.edu.hk/admin/people/faculty/profile/songguo" target="_blank" rel="noopener">Prof. Song Guo</a> at
         <a href="https://peilab.netlify.app/" target="_blank" rel="noopener">PEILab</a>. I am broadly interested in robot learning, world models, and reinforcement learning.
       </p>
       <p class="hero__intro">
-        I build action-conditioned world models and use them to evaluate, plan, and improve robot policies. My work connects video generation with model-based reinforcement learning (IRASim, WMPO) and multimodal reasoning for vision-language-action models (HALO).
+        My current research explores how robots can learn from models of the physical world, with the goal of making robot learning more scalable, data-efficient, and adaptable across tasks and environments.
       </p>
       <p class="hero__intro">
         Since May 2026, I have been a research intern at
         <a href="https://research.nvidia.com/labs/gear/" target="_blank" rel="noopener">NVIDIA GEAR</a>, working on world models for robot learning with
         <a href="https://github.com/Little-Podi" target="_blank" rel="noopener">Shenyuan Gao</a>,
         <a href="https://yukezhu.me/" target="_blank" rel="noopener">Yuke Zhu</a>, and
-        <a href="https://jimfan.me/" target="_blank" rel="noopener">Jim Fan</a>.
+        <a href="https://jimfan.me/" target="_blank" rel="noopener">Jim Fan</a>. I expect to graduate in 2027 and am on the industry job market.
       </p>
-      <p class="hero__intro"><strong>I expect to graduate in 2027 and am seeking industry research opportunities</strong> in robot learning, world models, and reinforcement learning. Please <a href="mailto:fangqi.zhu@connect.ust.hk">get in touch</a> if there is a potential fit.</p>
     </div>
   </section>
 
@@ -121,7 +119,7 @@ redirect_from:
           <p class="paper-card__venue">ICLR 2026</p>
           <h3><a href="https://arxiv.org/abs/2511.09515" target="_blank" rel="noopener">WMPO: World Model-based Policy Optimization for Vision-Language-Action Models</a></h3>
           <p class="paper-card__authors"><strong>Fangqi Zhu</strong>, Zhengyang Yan, Zicong Hong, Quanxin Shou, Xiao Ma, Song Guo</p>
-          <p>Optimizes VLA policies with on-policy reinforcement learning inside a video-generative world model. On a real-robot insertion task, WMPO achieves 70% success versus 53% for the base policy and 60% for DPO.</p>
+          <p>Explores model-based policy optimization in a learned world model.</p>
           <div class="paper-card__links">
             <a href="https://arxiv.org/abs/2511.09515" target="_blank" rel="noopener">Paper</a>
             <a href="https://github.com/WM-PO/WMPO" target="_blank" rel="noopener">Code</a>
@@ -137,9 +135,9 @@ redirect_from:
         </a>
         <div class="paper-card__body">
           <p class="paper-card__venue">ICCV 2025</p>
-          <h3><a href="https://arxiv.org/abs/2406.14540" target="_blank" rel="noopener">IRASim: A Fine-Grained World Model for Robot Manipulation</a></h3>
+          <h3><a href="https://arxiv.org/pdf/2406.14540" target="_blank" rel="noopener">IRASim: Learning Interactive Real-Robot Action Simulators</a></h3>
           <p class="paper-card__authors"><strong>Fangqi Zhu</strong>, Hongtao Wu, Song Guo, Yuxiao Liu, Chilam Cheang, Tao Kong</p>
-          <p>A diffusion-transformer world model with frame-level action conditioning for robot policy evaluation and planning. Model-based planning improves Push-T IoU from 0.637 to 0.961.</p>
+          <p>Studies generative robot world models for interactive real-robot action simulation.</p>
           <div class="paper-card__links">
             <a href="https://arxiv.org/pdf/2406.14540" target="_blank" rel="noopener">Paper</a>
             <a href="https://github.com/bytedance/IRASim" target="_blank" rel="noopener">Code</a>
@@ -147,37 +145,6 @@ redirect_from:
           </div>
         </div>
       </article>
-
-      <details class="paper-archive">
-        <summary><span>More collaborative work</span><small>Multimodal models, video understanding, and 3D generation</small></summary>
-        <div class="paper-archive__content">
-          <article class="paper-card__body">
-            <p class="paper-card__venue">Preprint · 2026</p>
-            <h3><a href="https://arxiv.org/abs/2606.07185" target="_blank" rel="noopener">AdaTok: Self-Budgeting Image Tokenization with Quality-Preserving Dynamic Tokens</a></h3>
-            <p class="paper-card__authors">Xiaocheng Lu et al. (including <strong>Fangqi Zhu</strong>)</p>
-          </article>
-          <article class="paper-card__body">
-            <p class="paper-card__venue">Preprint · 2026</p>
-            <h3><a href="https://arxiv.org/abs/2605.21988" target="_blank" rel="noopener">Learning Spatiotemporal Sensitivity in Video LLMs via Counterfactual Reinforcement Learning</a></h3>
-            <p class="paper-card__authors">Dazhao Du et al. (including <strong>Fangqi Zhu</strong>)</p>
-          </article>
-          <article class="paper-card__body">
-            <p class="paper-card__venue">Preprint · 2026</p>
-            <h3><a href="https://arxiv.org/abs/2604.26509" target="_blank" rel="noopener">3D Generation for Embodied AI and Robotic Simulation: A Survey</a></h3>
-            <p class="paper-card__authors">Tianwei Ye et al. (including <strong>Fangqi Zhu</strong>)</p>
-          </article>
-          <article class="paper-card__body">
-            <p class="paper-card__venue">Preprint · 2026</p>
-            <h3><a href="https://arxiv.org/abs/2604.21921" target="_blank" rel="noopener">Context Unrolling in Omni Models</a></h3>
-            <p class="paper-card__authors">Ceyuan Yang et al. (including <strong>Fangqi Zhu</strong>)</p>
-          </article>
-          <article class="paper-card__body">
-            <p class="paper-card__venue">Preprint · 2025</p>
-            <h3><a href="https://arxiv.org/abs/2505.16761" target="_blank" rel="noopener">Mesh-RFT: Enhancing Mesh Generation via Fine-grained Reinforcement Fine-Tuning</a></h3>
-            <p class="paper-card__authors">Jian Liu et al. (including <strong>Fangqi Zhu</strong>)</p>
-          </article>
-        </div>
-      </details>
 
       <details class="paper-archive">
         <summary>
@@ -295,7 +262,7 @@ redirect_from:
     </div>
     <div class="mini-list">
       <article>
-        <span>2024.09 - Present · Expected graduation: 2027</span>
+        <span>2024 - Present</span>
         <h3>PhD in Computer Science and Engineering</h3>
         <p>Hong Kong University of Science and Technology · Advisor: Prof. Song Guo</p>
       </article>
