@@ -135,7 +135,7 @@ redirect_from:
         </a>
         <div class="paper-card__body">
           <p class="paper-card__venue">ICCV 2025</p>
-          <h3><a href="https://arxiv.org/pdf/2406.14540" target="_blank" rel="noopener">IRASim: Learning Interactive Real-Robot Action Simulators</a></h3>
+          <h3><a href="https://arxiv.org/pdf/2406.14540" target="_blank" rel="noopener">IRASim: A Fine-Grained World Model for Robot Manipulation</a></h3>
           <p class="paper-card__authors"><strong>Fangqi Zhu</strong>, Hongtao Wu, Song Guo, Yuxiao Liu, Chilam Cheang, Tao Kong</p>
           <p>Studies generative robot world models for interactive real-robot action simulation.</p>
           <div class="paper-card__links">
